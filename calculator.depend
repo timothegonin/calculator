@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703775123 source:d:\data\web\tp\openclassrooms\c\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
